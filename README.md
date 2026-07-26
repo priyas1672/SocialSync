@@ -11,7 +11,7 @@ Built with modern web technologies, Social Sync provides a seamless experience f
 Managing social media content manually can be time-consuming and error-prone. Social Sync simplifies the workflow by providing a centralized platform where users can:
 
 - Create and organize content
-- Schedule posts in advance
+- Schedule posts in advancs
 - Manage upcoming publishing timelines
 - Track scheduled content efficiently
 - Improve consistency in social media presence
