@@ -13,7 +13,7 @@ Managing social media content manually can be time-consuming and error-prone. So
 - Create and organize content
 - Schedule posts in advance
 - Manage upcoming publishing timelines
-- Track scheduled content efficiently
+- Track scheduled content efficienty
 - Improve consistency in social media presence
 
 The project focuses on scalability, clean architecture, secure authentication, and a modern user experience.
